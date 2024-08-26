@@ -12,6 +12,7 @@
 
   },
   "devDependencies": {
-    
-  }
+
+  },
+  "type": "module"
 }
